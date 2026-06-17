@@ -11,7 +11,7 @@ This section shows the input interface of the Event Planning Helper app.
 
 ## Screenshot
 
-![Input Section](input.png)
+![Input Section](images/input.png)
 
 ## Purpose
 
